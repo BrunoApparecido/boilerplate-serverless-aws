@@ -1,0 +1,36 @@
+{
+  "name": "boilerplate-serverless-aws",
+  "version": "0.1.0",
+  "description": "Boilerplate for serverless aplications in Amazon AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoApparecido/boilerplate-serverless-aws.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "aws-lambda",
+    "serverless"
+  ],
+  "author": "Bruno Alexandre Apparecido",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrunoApparecido/boilerplate-serverless-aws/issues"
+  },
+  "homepage": "https://github.com/BrunoApparecido/boilerplate-serverless-aws#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "serverless-webpack": "^5.1.5",
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8"
+  }
+}
